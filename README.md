@@ -13,4 +13,8 @@ Hello again there is readme
 hello
 
 
+<<<<<<< HEAD
 hello
+=======
+hello5
+>>>>>>> development
