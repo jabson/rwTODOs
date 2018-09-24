@@ -10,9 +10,4 @@ some changes hersss
 
 Hello again there is readme
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> development
 hello
